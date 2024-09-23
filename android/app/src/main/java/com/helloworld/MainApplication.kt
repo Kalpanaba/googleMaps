@@ -2,6 +2,7 @@ package com.helloworld
 
 import android.app.Application
 import android.content.res.Configuration
+import com.helloworld.BuildConfig
 
 import com.facebook.react.PackageList
 import com.facebook.react.ReactApplication
